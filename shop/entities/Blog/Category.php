@@ -11,6 +11,7 @@ namespace shop\entities\Blog;
 use shop\entities\behaviors\MetaBehavior;
 use shop\entities\Meta;
 use yii\db\ActiveRecord;
+use Yii;
 
 /**
  * @property integer $id
